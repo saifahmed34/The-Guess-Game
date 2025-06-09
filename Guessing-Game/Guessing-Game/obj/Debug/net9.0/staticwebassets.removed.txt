@@ -1,0 +1,6 @@
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\js\index.js
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\css\game.css
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\js\game.js
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\game.html
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\index.html
+C:\Users\saifa\Documents\GitHub\Full-Stack-To-Do-List\Backend\Guessing-Game\Guessing-Game\wwwroot\css\index.css

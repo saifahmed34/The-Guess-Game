@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guessing Game</title>
+    <link rel="stylesheet" href="/css/game.css">
+</head>
+<body>
+    <div id="game-container">
+        <h1>🎯 Guessing Game - Room: <span id="partyCode">ABC123</span></h1>
+        <div id="status" class="pulse">🎮 Ready to play! Waiting for players...</div>
+        <div id="chatBox"></div>
+        <div class="input-group">
+            <input type="text" id="inputQuestion" placeholder="Ask a yes/no question...">
+            <button id="askBtn">🤔 Ask Question</button>
+        </div>
+        <div class="input-group">
+            <input type="text" id="inputAnswer" placeholder="Answer yes/no..." style="display: none;">
+            <button id="answerBtn" style="display: none;">💬 Answer</button>
+        </div>
+        <div class="input-group">
+            <input type="text" id="inputGuess" placeholder="Make a guess...">
+            <button id="guessBtn">🎯 Make Guess</button>
+        </div>
+        <div id="errorMsg"></div>
+    </div>
+
+    <script src="js/game.js"></script>
+</body>
+</html>

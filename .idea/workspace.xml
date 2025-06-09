@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a5310b-d4db-4d7e-af3d-f3efb7c1dcb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/FileContentIndex/0dd3ee16-809a-458a-b83e-1f7b68ed5f81.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/FileContentIndex/73f5d6d4-8e14-4471-b68e-f6ad4534c646.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/FileContentIndex/92422e7f-9259-4207-94a2-e4f652ff02cc.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/FileContentIndex/94850b44-becb-41c5-bc29-d0bbdc2cf533.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/FileContentIndex/ca417b52-914e-4f55-abd6-ed80927d3dac.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/Guessing-Game/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/.vs/ProjectEvaluation/guessing-game.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/Controller/gameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/Controller/gameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/bin/Debug/net9.0/Guessing-Game.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/Guessing-Game.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/ref/Guessing-Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/ref/Guessing-Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/refint/Guessing-Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/refint/Guessing-Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.removed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.removed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Guessing-Game.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/Guessing-Game.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing-Game/Guessing-Game/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "saifahmed34"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saifahmed34/The_Guess_Game.git",
+    "accountId": "85b760ac-d347-4e68-80e1-b212e4506e9d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2yHDi2SzPZimW43I8QZ6MJ1XG0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a5310b-d4db-4d7e-af3d-f3efb7c1dcb0" name="Changes" comment="" />
+      <created>1749482730524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749482730524</updated>
+      <workItem from="1749482731911" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "OjskCpM+wCL4c29hSdxL4ioP6MeTJCv28cxJMnVpbXc=",
+  "Source": "Guessing-Game",
+  "BasePath": "_content/Guessing-Game",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Guessing-Game\\wwwroot",
+      "Source": "Guessing-Game",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\752c35pvcq-s17acj6rwi.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "js/index#[.{fingerprint=s17acj6rwi}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "80qb3voin9",
+      "Integrity": "aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\8600jtxkhv-5l6zz81bo9.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "css/game#[.{fingerprint=5l6zz81bo9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "petrnudztv",
+      "Integrity": "oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\f684i941w3-67dq660v0p.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "js/game#[.{fingerprint=67dq660v0p}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8zbjj2lzbb",
+      "Integrity": "nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\o6ab0rlrnl-7897w62kkt.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "game#[.{fingerprint=7897w62kkt}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ekxkyama2t",
+      "Integrity": "Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\t5gz5qrw3b-dm5cp83fg0.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "index#[.{fingerprint=dm5cp83fg0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f5a3tl4fqk",
+      "Integrity": "3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\xso7kiu0pw-4lzjtkeuw4.gz",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "css/index#[.{fingerprint=4lzjtkeuw4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wpfzfm2des",
+      "Integrity": "rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "css/game#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5l6zz81bo9",
+      "Integrity": "Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\game.css"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4lzjtkeuw4",
+      "Integrity": "6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "game#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7897w62kkt",
+      "Integrity": "d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\game.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dm5cp83fg0",
+      "Integrity": "dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "js/game#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67dq660v0p",
+      "Integrity": "UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\game.js"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "SourceId": "Guessing-Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\",
+      "BasePath": "_content/Guessing-Game",
+      "RelativePath": "js/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s17acj6rwi",
+      "Integrity": "MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/game.5l6zz81bo9.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\8600jtxkhv-5l6zz81bo9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000473709143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2110"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l6zz81bo9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/game.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="
+        }
+      ]
+    },
+    {
+      "Route": "css/game.5l6zz81bo9.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l6zz81bo9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/game.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="
+        }
+      ]
+    },
+    {
+      "Route": "css/game.5l6zz81bo9.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\8600jtxkhv-5l6zz81bo9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l6zz81bo9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/game.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU="
+        }
+      ]
+    },
+    {
+      "Route": "css/game.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\8600jtxkhv-5l6zz81bo9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000473709143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2110"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="
+        }
+      ]
+    },
+    {
+      "Route": "css/game.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="
+        }
+      ]
+    },
+    {
+      "Route": "css/game.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\8600jtxkhv-5l6zz81bo9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oQwA4bbDkq1NhjSXSOskGM/ZOfLnbNCywd/i7OF6dMU="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.4lzjtkeuw4.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\xso7kiu0pw-4lzjtkeuw4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lzjtkeuw4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.4lzjtkeuw4.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lzjtkeuw4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.4lzjtkeuw4.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\xso7kiu0pw-4lzjtkeuw4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lzjtkeuw4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\xso7kiu0pw-4lzjtkeuw4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000921658986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\xso7kiu0pw-4lzjtkeuw4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rN6Ggv6ln77QD59XyGoz/DIlkCfw6Grc+Ql+BvcCY4U="
+        }
+      ]
+    },
+    {
+      "Route": "game.7897w62kkt.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\o6ab0rlrnl-7897w62kkt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7897w62kkt"
+        },
+        {
+          "Name": "label",
+          "Value": "game.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="
+        }
+      ]
+    },
+    {
+      "Route": "game.7897w62kkt.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7897w62kkt"
+        },
+        {
+          "Name": "label",
+          "Value": "game.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="
+        }
+      ]
+    },
+    {
+      "Route": "game.7897w62kkt.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\o6ab0rlrnl-7897w62kkt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7897w62kkt"
+        },
+        {
+          "Name": "label",
+          "Value": "game.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho="
+        }
+      ]
+    },
+    {
+      "Route": "game.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\o6ab0rlrnl-7897w62kkt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="
+        }
+      ]
+    },
+    {
+      "Route": "game.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0Ls+gR+agUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="
+        }
+      ]
+    },
+    {
+      "Route": "game.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\o6ab0rlrnl-7897w62kkt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em/vub02882xxa9KXlZu4X139FBylu6YIGRkpQ75lho="
+        }
+      ]
+    },
+    {
+      "Route": "index.dm5cp83fg0.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\t5gz5qrw3b-dm5cp83fg0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002192982456"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm5cp83fg0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="
+        }
+      ]
+    },
+    {
+      "Route": "index.dm5cp83fg0.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm5cp83fg0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="
+        }
+      ]
+    },
+    {
+      "Route": "index.dm5cp83fg0.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\t5gz5qrw3b-dm5cp83fg0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm5cp83fg0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\t5gz5qrw3b-dm5cp83fg0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002192982456"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\t5gz5qrw3b-dm5cp83fg0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3fjqgL4UgnD7Hr2Mp1AbMhQI+kiqYeFP5I/CqLlBfdU="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.67dq660v0p.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\f684i941w3-67dq660v0p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000338180588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67dq660v0p"
+        },
+        {
+          "Name": "label",
+          "Value": "js/game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.67dq660v0p.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67dq660v0p"
+        },
+        {
+          "Name": "label",
+          "Value": "js/game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.67dq660v0p.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\f684i941w3-67dq660v0p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67dq660v0p"
+        },
+        {
+          "Name": "label",
+          "Value": "js/game.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\f684i941w3-67dq660v0p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000338180588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\f684i941w3-67dq660v0p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:53:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nPHfQUEK59TRj04/Ni0Aph01t9wt41A7k5PneRzgbZU="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\752c35pvcq-s17acj6rwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001347708895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\752c35pvcq-s17acj6rwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.s17acj6rwi.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\752c35pvcq-s17acj6rwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001347708895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s17acj6rwi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.s17acj6rwi.js",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s17acj6rwi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.s17acj6rwi.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\Debug\\net9.0\\compressed\\752c35pvcq-s17acj6rwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 22:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s17acj6rwi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBdUeGvhvTsPldGTDIbCySAQ8ZCvv1/ke9u63pWT+yw="
+        }
+      ]
+    }
+  ]
+}

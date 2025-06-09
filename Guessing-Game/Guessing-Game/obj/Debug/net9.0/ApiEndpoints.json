@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "Get",
+    "RelativePath": "api/Game/{gameId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "Answer",
+    "RelativePath": "api/Game/answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "r",
+        "Type": "Guessing_Game.Models.AnswerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "CreateAndJoin",
+    "RelativePath": "api/Game/create-and-join",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "CreateAndJoinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "Guess",
+    "RelativePath": "api/Game/guess",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "playerId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "guess",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "Join",
+    "RelativePath": "api/Game/join",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "CreateAndJoinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Guessing_Game.Controller.GameController",
+    "Method": "Ask",
+    "RelativePath": "api/Game/question",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "r",
+        "Type": "QuestionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

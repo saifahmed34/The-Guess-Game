@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/css/game.5l6zz81bo9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\game.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l6zz81bo9"},{"Name":"integrity","Value":"sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="},{"Name":"label","Value":"_content/Guessing-Game/css/game.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8493"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:48:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/css/game.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\game.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8493"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gf8Ggwr4QXxBPktVTaEh2A8m6ikSVlb0blU4Dtcv09w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:48:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/css/index.4lzjtkeuw4.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4lzjtkeuw4"},{"Name":"integrity","Value":"sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="},{"Name":"label","Value":"_content/Guessing-Game/css/index.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3902"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/css/index.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3902"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226Ke4SXlC7NwNmXq5T/EcLBdUM9U9bHDygL1qyhY5W7k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/game.7897w62kkt.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\game.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7897w62kkt"},{"Name":"integrity","Value":"sha256-d0Ls\u002BgR\u002BagUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="},{"Name":"label","Value":"_content/Guessing-Game/game.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1219"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022d0Ls\u002BgR\u002BagUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:51:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/game.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\game.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d0Ls\u002BgR\u002BagUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1219"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022d0Ls\u002BgR\u002BagUfG/gvQHZO/wK1jyzE71lTIfRxNB30Lmw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:51:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/index.dm5cp83fg0.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dm5cp83fg0"},{"Name":"integrity","Value":"sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="},{"Name":"label","Value":"_content/Guessing-Game/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"993"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:44:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"993"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022dXCRAzooyu5zxiXqe0VNAO2BWKux3vunez/D75wQf18=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:44:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/js/game.67dq660v0p.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\game.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"67dq660v0p"},{"Name":"integrity","Value":"sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="},{"Name":"label","Value":"_content/Guessing-Game/js/game.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13361"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:53:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/js/game.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\game.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13361"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:53:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/js/index.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MBpYq0E\u002BUHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2579"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022MBpYq0E\u002BUHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:42:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Guessing-Game/js/index.s17acj6rwi.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s17acj6rwi"},{"Name":"integrity","Value":"sha256-MBpYq0E\u002BUHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0="},{"Name":"label","Value":"_content/Guessing-Game/js/index.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2579"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022MBpYq0E\u002BUHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Jun 2025 22:42:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

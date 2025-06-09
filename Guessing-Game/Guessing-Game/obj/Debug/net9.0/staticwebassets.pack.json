@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "PackagePath": "staticwebassets\\css\\game.css"
+    },
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "PackagePath": "staticwebassets\\game.html"
+    },
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Guessing-Game.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Guessing-Game.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Guessing-Game.props",
+      "PackagePath": "build\\Guessing-Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Guessing-Game.props",
+      "PackagePath": "buildMultiTargeting\\Guessing-Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Guessing-Game.props",
+      "PackagePath": "buildTransitive\\Guessing-Game.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
