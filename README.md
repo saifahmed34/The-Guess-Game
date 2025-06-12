@@ -62,7 +62,7 @@ cd The-Guess-Game/Guessing-Game
 
 # ✅ Future Improvements
 
-- Implement functionality allowing both players to enter their own secret words and alternate turns to guess each other's words.
+- Implement functionality allowing both players to enter their own secret words and alternate turns to guess each other's words.✅
 - change the basic frontend to React
 
 
