@@ -43,7 +43,7 @@ namespace Guessing_Game.Controller
         public async Task<IActionResult> Join([FromBody] CreateAndJoinRequest req)
         {
             var g = await _context.games.Include(g => g.Players)
-                .FirstOrDefaultAsync(g => g.Id.ToString() == req.SecretWord);
+                .FirstOrDefaultAsync(g => g.Id == req.gameId);
             if (g == null) return NotFound("Game Not Found");
             if (g.Players.Count >= 2) return BadRequest("The Game is Full");
 

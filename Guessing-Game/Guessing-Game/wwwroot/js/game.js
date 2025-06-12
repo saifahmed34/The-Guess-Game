@@ -1,7 +1,7 @@
 ﻿document.addEventListener('DOMContentLoaded', () => {
     // Configuration
-    const API_BASE = 'https://localhost:7020/api/game';
-    const POLL_INTERVAL = 1000; // 1 seconds
+    const API_BASE = 'api/game';
+    const POLL_INTERVAL = 2000; 
 
     // Get URL parameters
     const urlParams = new URLSearchParams(window.location.search);
@@ -69,15 +69,15 @@
         statusEl.textContent = text;
     }
 
-    function showAnswerInput(show = true) {
-        answerInput.style.display = show ? 'block' : 'none';
-        answerBtn.style.display = show ? 'block' : 'none';
-        waitingForAnswer = show;
+    // function showAnswerInput(show = true) {
+    //     answerInput.style.display = show ? 'block' : 'none';
+    //     answerBtn.style.display = show ? 'block' : 'none';
+    //     waitingForAnswer = show;
 
-        if (show) {
-            answerInput.focus();
-        }
-    }
+    //     if (show) {
+    //         answerInput.focus();
+    //     }
+    // }
 
     async function handleApiError(response) {
         try {
@@ -303,42 +303,50 @@
     }
 
     // Make guess
-    async function makeGuess() {
-        const guess = guessInput.value.trim();
+  async function makeGuess() {
+    const guess = guessInput.value.trim();
 
-        if (!guess) {
-            errorMsg.textContent = 'Please enter a guess';
+    if (!guess) {
+        errorMsg.textContent = 'Please enter a guess';
+        return;
+    }
+
+    errorMsg.textContent = '';
+
+    try {
+        const url = `${API_BASE}/guess?gameId=${gameId}&playerId=${playerId}&guess=${encodeURIComponent(guess)}`;
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+
+        if (!response.ok) {
+            errorMsg.textContent = await handleApiError(response);
             return;
         }
 
-        errorMsg.textContent = '';
+        const data = await response.json();
 
-        try {
-            const url = `${API_BASE}/guess?gameId=${gameId}&playerId=${playerId}&guess=${encodeURIComponent(guess)}`;
-            const response = await fetch(url, {
-                method: 'POST',
-                headers: {
-                    'Accept': 'application/json'
-                }
-            });
-
-            if (!response.ok) {
-                errorMsg.textContent = await handleApiError(response);
-                return;
-            }
-
-            const data = await response.json();
-
-            if (data.gameCompleted) {
-                gameOver = true;
-            }
-
-            guessInput.value = '';
-        } catch (error) {
-            errorMsg.textContent = 'Failed to submit guess';
-            console.error('Guess error:', error);
+        if (data.isGuessCorrect || data.gameCompleted) {
+            // ✅ Immediate feedback for the guesser
+            addMessage(`🎯 ${playerName} guessed: "${guess}" — ✅ Correct!`, 'guess');
+            addSystemMessage(`🎉 You guessed it! You win!`);
+            updateStatus('Game Over!');
+            gameOver = true;
+        } else {
+            addMessage(`🎯 ${playerName} guessed: "${guess}" — ❌ Wrong`, 'guess');
+            addSystemMessage(`Wrong guess. Try again!`);
         }
+
+        guessInput.value = '';
+    } catch (error) {
+        errorMsg.textContent = 'Failed to submit guess';
+        console.error('Guess error:', error);
     }
+}
+
 
     // Event listeners
     askBtn.addEventListener('click', askQuestion);

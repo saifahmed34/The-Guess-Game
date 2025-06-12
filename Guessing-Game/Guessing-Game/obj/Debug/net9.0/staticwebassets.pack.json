@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
       "PackagePath": "staticwebassets\\css\\game.css"
     },
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
       "PackagePath": "staticwebassets\\game.html"
     },
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
       "PackagePath": "staticwebassets\\js\\game.js"
     },
     {
-      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+      "Id": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
       "PackagePath": "staticwebassets\\js\\index.js"
     },
     {

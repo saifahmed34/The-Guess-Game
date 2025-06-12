@@ -1,46 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\",
+  "WorkspaceRootPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\css\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\gamedtos\\createandjoinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\gamedtos\\createandjoinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\dtos\\request models\\questionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\dtos\\request models\\questionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\css\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\css\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the_guess_game\\guessing-game\\guessing-game\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\dtos\\request models\\answerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\dtos\\request models\\answerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\dtos\\request models\\createandjoinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\dtos\\request models\\createandjoinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|c:\\users\\saifa\\documents\\github\\full-stack-to-do-list\\backend\\the-guess-game\\guessing-game\\guessing-game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882403F9-6793-43C0-AFCA-93A5C55AB785}|Guessing-Game\\Guessing-Game.csproj|solutionrelative:guessing-game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +66,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+              "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\js\\game.js",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
+              "RelativeToolTip": "Guessing-Game\\wwwroot\\js\\game.js",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-08T22:10:53.843Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Controller\\gameController.cs",
+              "RelativeDocumentMoniker": "Guessing-Game\\Controller\\gameController.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Controller\\gameController.cs",
+              "RelativeToolTip": "Guessing-Game\\Controller\\gameController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:35:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAndJoinRequest.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\GameDtos\\CreateAndJoinRequest.cs",
+              "RelativeDocumentMoniker": "Guessing-Game\\GameDtos\\CreateAndJoinRequest.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\GameDtos\\CreateAndJoinRequest.cs",
+              "RelativeToolTip": "Guessing-Game\\GameDtos\\CreateAndJoinRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:17:58.643Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -62,24 +118,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Program.cs",
               "RelativeDocumentMoniker": "Guessing-Game\\Program.cs",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Program.cs",
               "RelativeToolTip": "Guessing-Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T15:22:51.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "QuestionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\QuestionRequest.cs",
+              "RelativeDocumentMoniker": "Guessing-Game\\Dtos\\Request Models\\QuestionRequest.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\QuestionRequest.cs",
+              "RelativeToolTip": "Guessing-Game\\Dtos\\Request Models\\QuestionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:18:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnswerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\AnswerRequest.cs",
+              "RelativeDocumentMoniker": "Guessing-Game\\Dtos\\Request Models\\AnswerRequest.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\AnswerRequest.cs",
+              "RelativeToolTip": "Guessing-Game\\Dtos\\Request Models\\AnswerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:22:01.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateAndJoinRequest.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\CreateAndJoinRequest.cs",
+              "RelativeDocumentMoniker": "Guessing-Game\\Dtos\\Request Models\\CreateAndJoinRequest.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Dtos\\Request Models\\CreateAndJoinRequest.cs",
+              "RelativeToolTip": "Guessing-Game\\Dtos\\Request Models\\CreateAndJoinRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:17:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Guessing-Game\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Properties\\launchSettings.json",
               "RelativeToolTip": "Guessing-Game\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -87,24 +182,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "gameController.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Controller\\gameController.cs",
-              "RelativeDocumentMoniker": "Guessing-Game\\Controller\\gameController.cs",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Controller\\gameController.cs",
-              "RelativeToolTip": "Guessing-Game\\Controller\\gameController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwI0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T22:35:51.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\index.html",
               "RelativeToolTip": "Guessing-Game\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -112,48 +194,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "game.js",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
-              "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\js\\game.js",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\game.js",
-              "RelativeToolTip": "Guessing-Game\\wwwroot\\js\\game.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-08T22:10:53.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\index.css",
               "RelativeToolTip": "Guessing-Game\\wwwroot\\css\\index.css",
               "ViewState": "AgIAAJsAAAAAAAAAAAAUwMcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-08T22:09:13.442Z",
+              "WhenOpened": "2025-06-08T22:09:13.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\js\\index.js",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "Guessing-Game\\wwwroot\\js\\index.js",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-08T17:17:06.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
-              "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\js\\index.js",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\js\\index.js",
-              "RelativeToolTip": "Guessing-Game\\wwwroot\\js\\index.js",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-08T17:17:06.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Guessing-Game\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Guessing-Game\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,28 +231,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "game.css",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
               "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\css\\game.css",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\css\\game.css",
               "RelativeToolTip": "Guessing-Game\\wwwroot\\css\\game.css",
               "ViewState": "AgIAAGoBAAAAAAAAAAAYwIQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-08T12:38:31.909Z"
+              "WhenOpened": "2025-06-08T12:38:31.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "game.html",
-              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+              "DocumentMoniker": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
               "RelativeDocumentMoniker": "Guessing-Game\\wwwroot\\game.html",
-              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
+              "ToolTip": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\wwwroot\\game.html",
               "RelativeToolTip": "Guessing-Game\\wwwroot\\game.html",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwBwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-08T12:38:06.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T12:38:06.31Z"
             }
           ]
         }

@@ -4887,11 +4887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Guessing-Game.csproj",
+      "projectUniqueName": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Guessing-Game.csproj",
       "projectName": "Guessing-Game",
-      "projectPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\Guessing-Game.csproj",
+      "projectPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\Guessing-Game.csproj",
       "packagesPath": "C:\\Users\\saifa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The_Guess_Game\\Guessing-Game\\Guessing-Game\\obj\\",
+      "outputPath": "C:\\Users\\saifa\\Documents\\GitHub\\Full-Stack-To-Do-List\\Backend\\The-Guess-Game\\Guessing-Game\\Guessing-Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4964,12 +4964,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.203, 9.0.203]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>67dq660v0p</Fingerprint>
-      <Integrity>UiOKf12MjJhQ7Cs0WlmqEHq/f7LNX7AUlpenKq2pJLI=</Integrity>
+      <Fingerprint>6q84hst4a3</Fingerprint>
+      <Integrity>0olr0yZqibqlg2MsMmMH/DGr8/2CB0hQrlp2y5LgEXE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\game.js'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s17acj6rwi</Fingerprint>
-      <Integrity>MBpYq0E+UHVJIwgj1RK7cUxV3h4f3JxNOzMudLmuRX0=</Integrity>
+      <Fingerprint>sewcdw98yu</Fingerprint>
+      <Integrity>7JMxYFKAbGipmw8fl8+aSh6PQ+CWkxiNLQVUrjMBR68=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</OriginalItemSpec>

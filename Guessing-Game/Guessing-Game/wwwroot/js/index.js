@@ -1,4 +1,4 @@
-﻿const apiBase = 'https://localhost:7020/api/game';
+﻿const apiBase = 'api/game';
 
 const playerNameInput = document.getElementById('playerName');
 const secretWordInput = document.getElementById('secretWord');
@@ -46,8 +46,9 @@ document.getElementById('btnCreate').onclick = async () => {
 document.getElementById('btnJoin').onclick = async () => {
     const name = playerNameInput.value.trim();
     const gameId = joinGameIdInput.value.trim();
+    const secret = secretWordInput.value.trim();
 
-    if (!name || !gameId) {
+    if (!name || !gameId || !secret) {
         showMessage('Please enter your name and party code to join a game.');
         return;
     }
@@ -58,7 +59,7 @@ document.getElementById('btnJoin').onclick = async () => {
         const res = await fetch(`${apiBase}/join`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ PlayerName: name, SecretWord: gameId }),
+            body: JSON.stringify({ PlayerName: name, gameId: gameId, SecretWord: secret }),
         });
 
         if (!res.ok) {
