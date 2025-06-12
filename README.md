@@ -7,8 +7,8 @@ A two-player, turn-based word guessing game where one player sets a secret word 
 ## 🎯 Game Objective
 
 - **Player 1** creates a game and enters a secret word.
-- **Player 2** joins the game and asks yes/no questions.
-- The game continues in turns until Player 2 correctly guesses the secret word.
+- **Player 2** enter the secret word and join the game and asks yes/no questions.
+- The game continues in turns until Player 1 or 2 correctly guesses the secret word.
 
 ---
 
