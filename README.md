@@ -1,72 +1,119 @@
-# 🔤 Guessing Game
+# Guessing-Game
 
-A two-player, turn-based word guessing game where one player sets a secret word and the other tries to guess it by asking yes/no questions.
+A simple multiplayer guessing game built with ASP.NET Core (minimal API / MVC). This repository contains the backend API, EF Core DbContext and migrations, and a small static frontend under `wwwroot` for playing the game in the browser.
 
----
+**Key components**
+- `Guessing-Game/Program.cs`: Application entrypoint and web host configuration.
+- `Guessing-Game/Controller/gameController.cs`: API controller for game actions.
+- `Guessing-Game/Data/AppDbContext.cs`: EF Core DbContext and models.
+- `Guessing-Game/Models`: `Game`, `Player`, `Turn` model classes.
+- `Guessing-Game/Migrations`: EF Core migrations (schema history).
+- `Guessing-Game/wwwroot`: Static frontend (`index.html`, `game.html`, CSS and JS).
 
-## 🎯 Game Objective
+## Features
+- Create and join multiplayer games
+- Submit answers and take turns
+- Persistent game state using EF Core and a relational database
+- Minimal static web UI included for quick testing
 
-- **Player 1** creates a game and enters a secret word.
-- **Player 2** enter the secret word and join the game and asks yes/no questions.
-- The game continues in turns until Player 1 or 2 correctly guesses the secret word.
+## Requirements
+- .NET 9.0 SDK (or the version used to build the project)
+- A relational database supported by EF Core (SQLite, SQL Server, etc.) if you want persistence beyond the included development settings
 
----
+## Quickstart (development)
+1. Install the .NET SDK (9.0+).
+2. Restore packages and build:
 
-## 🧩 Features
-
-- Turn-based multiplayer gameplay
-- RESTful API (ASP.NET Core)
-- Secret word entry and question/answer system
-- Separate game logic, models, DTOs, and API
-- Frontend served via static HTML/CSS/JS
-- SQL Server database via EF Core
-
----
-
-## 🚀 Getting Started
-
-### Requirements
-
-- [.NET 6+ SDK](https://dotnet.microsoft.com/download)
-- A modern web browser
-
-### Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/saifahmed34/The-Guess-Game.git
-cd The-Guess-Game/Guessing-Game
 ```
-# Play the Game
-- Navigate to https://localhost:7020/ or http://localhost:5189/
+dotnet restore
+dotnet build
+```
 
-- Player 1 enters a secret word and share the Game Id Player 2 
+3. Apply database migrations (requires `dotnet-ef` tools installed):
 
-- Player 2 joins and starts asking yes/no questions.
+```
+dotnet tool install --global dotnet-ef
+cd Guessing-Game
+dotnet ef database update
+```
 
-- Track the game state as you go!
+4. Run the app:
 
-# 🔄 API Overview
-## Sample endpoints (defined in gameController.cs):
+```
+dotnet run --project Guessing-Game/Guessing-Game.csproj
+```
 
-- POST /api/game/create
+5. Open the web UI in a browser:
 
-- POST /api/game/join
+- Development static UI: `Guessing-Game/wwwroot/index.html` or `Guessing-Game/wwwroot/game.html`
 
-- POST /api/game/question
+## API (overview)
+The project exposes a small REST API for game operations. Common endpoints live in the `gameController` and include (examples):
 
-- POST /api/game/answer
+- `POST api/game/create-and-join` — create a new game or create-and-join
+- `POST api/game/join` — join an existing game
+- `POST api/game/question` — ask the question
+- `POST api/game/answer` — submit an answer / take your turn
+- `Post api/game/guess` — check your guess
+- `GET api/game/{gameId}` — Get Game Details
 
-- POST /api/game/guess
+Refer to `Guessing-Game/Controller/gameController.cs` for exact routes and request/response DTOs.
 
-# ✅ Future Improvements
+## Configuration
+- App settings live in `Guessing-Game/appsettings.json` and `Guessing-Game/appsettings.Development.json`.
+- Connection strings and environment-specific settings should be configured there.
 
-- Implement functionality allowing both players to enter their own secret words and alternate turns to guess each other's words.✅
-- change the basic frontend to React
+## Development notes
+- Models and DbContext are in `Guessing-Game/Models` and `Guessing-Game/Data`.
+- DTOs for requests live in `Guessing-Game/Dtos/Request Models` and `Guessing-Game/GameDtos`.
+- Migrations are checked into `Guessing-Game/Migrations` for easy setup in development.
 
+## Testing manually
+- Use the included static pages to play locally.
+- Use an API client (Postman / curl) to exercise the endpoints.
 
-## Author
+Example curl to create a game:
 
-Made by [saifahmed34](https://github.com/saifahmed34)
-— Have fun guessing!
+```
+curl -X POST http://localhost:5189/api/game/create-and-join -H "Content-Type: application/json" -d '{ "name": "Test Game" }'
+```
+
+## Real-time (polling)
+
+The client UI keeps in sync with the server using a simple polling strategy. Polling repeatedly requests the game state endpoint and updates the chat and game UI.
+
+Guidelines
+- Poll a compact endpoint such as `GET /api/game/{gameId}` that returns players, turns and game status.
+- Use an interval between requests (recommended: 1000–3000 ms). Default in client: 2000 ms.
+- Implement backoff on errors and stop polling when the user leaves the game view or the game completes.
+
+Quick example (place in `wwwroot/js/game.js`):
+
+```
+const POLL_INTERVAL_MS = 2000;
+let pollTimer = null;
+
+async function pollGame(gameId) {
+	try {
+		const res = await fetch(`/api/game/${gameId}`);
+		if (!res.ok) throw new Error('Fetch failed');
+		const state = await res.json();
+		updateGameUI(state); // implement this to redraw only what changed
+	} catch (err) {
+		console.error('Polling error:', err);
+	} finally {
+		if (!gameOver) pollTimer = setTimeout(() => pollGame(gameId), POLL_INTERVAL_MS);
+	}
+}
+
+function stopPolling() {
+	if (pollTimer) { clearTimeout(pollTimer); pollTimer = null; }
+}
+```
+
+When to use another approach
+- For lower latency or many concurrent clients, prefer SignalR / WebSockets over polling.
+
+## Contributing
+- Fork the repo, create a feature branch, and open a pull request.
+- Please include clear descriptions and (where appropriate) small, focused commits.
